@@ -1,0 +1,2 @@
+Acesta este fisierul RepoAFile6.txt
+Sursa originala: AnaisND/RepositoryA
